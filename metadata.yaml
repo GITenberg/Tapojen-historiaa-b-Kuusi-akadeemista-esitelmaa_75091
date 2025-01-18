@@ -1,0 +1,39 @@
+_repo: Tapojen-historiaa-b-Kuusi-akadeemista-esitelmaa_75091
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Lehtonen, Joel
+    birthdate: 1881
+    deathdate: 1934
+    gutenberg_agent_id: '5996'
+    url: http://www.gutenberg.org/2009/agents/5996
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Joel_Lehtonen
+    - https://fi.wikipedia.org/wiki/Joel_Lehtonen
+creator:
+  author:
+    agent_name: Westermarck, Edward
+    alias: Westermarck, Edvard Alexander
+    birthdate: 1862
+    deathdate: 1939
+    gutenberg_agent_id: '46679'
+    url: http://www.gutenberg.org/2009/agents/46679
+    wikipedia: https://en.wikipedia.org/wiki/Edvard_Westermarck
+description: ''
+gutenberg_issued: '2025-01-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75091'
+language: fi
+pgterms:marc905: 20250111011606westermarc
+pgterms:marc906: '1913'
+pgterms:marc907: FI
+production_note: Jari Koivisto
+publication_note: '  $aHelsinki :$bOtava, $c1913.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Tapojen historiaa : $b Kuusi akadeemista esitelmää'
+url: http://www.gutenberg.org/ebooks/75091
