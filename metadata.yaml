@@ -10,6 +10,9 @@ contributor:
     wikipedia:
     - https://en.wikipedia.org/wiki/Joel_Lehtonen
     - https://fi.wikipedia.org/wiki/Joel_Lehtonen
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Westermarck, Edward
@@ -20,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/46679
     wikipedia: https://en.wikipedia.org/wiki/Edvard_Westermarck
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75091#Tapojen-historiaa-b-Kuusi-akadeemista-esitelmaa
 gutenberg_issued: '2025-01-12'
 gutenberg_type: Text
 identifiers:
